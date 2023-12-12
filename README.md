@@ -1,6 +1,9 @@
 # Proyek Akhir Pengolahan Citra 119
 
-**Penulis:** [Rhendy Rivaldi Multiono]
+**Penulis 1:** [Rhendy Rivaldi Multiono]
+**Penulis 2:** [Annan Rafsanjani]
+**Penulis 3:** [Fioriza Danadyaksa Achmad]
+**Penulis 4:** [Rafa Anargya]
 
 ## Deskripsi Proyek
 
